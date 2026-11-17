@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Inventory and Data Management System
 
 A REST API built with Node.js, Express.js, MongoDB and Mongoose to manage a product catalogue.
@@ -45,3 +46,6 @@ A REST API built with Node.js, Express.js, MongoDB and Mongoose to manage a prod
 
 ### Category Summary (GET)
 ![Summary](screenshots/summary.png)
+=======
+# WEB-DEVELOPMENT-ASSIGNMENT-3
+>>>>>>> d5155380773e81941d3ac3390a38c2d8992f9f94
